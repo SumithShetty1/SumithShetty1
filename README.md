@@ -31,8 +31,8 @@ I'm always open to collaborating on interesting projects, especially in the area
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumith-shetty-724200250" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumith-shetty-724200250" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumithshetty014" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumithshetty014" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumith-shetty-724200250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumith-shetty-724200250" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sumithshetty014" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumithshetty014" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
