@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sumith Shetty</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumithshetty1&label=Profile%20views&color=0e75b6&style=flat" alt="sumithshetty1" />
+</p>
+
 ## 👋 About Me
 Hi, I'm **Sumith Shetty**, a passionate software developer driven by curiosity and innovation. I enjoy building impactful solutions that solve real-world problems and am constantly expanding my knowledge in cutting-edge technologies.
 
