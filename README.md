@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ## 👋 About Me
 Hi, I'm **Sumith Shetty**, a passionate software developer driven by curiosity and innovation. I enjoy building impactful solutions that solve real-world problems and am constantly expanding my knowledge in cutting-edge technologies.
 
-- 🔭 Working on **LiveCollab**, a video chat web application using the Agora API
+- 🔭 Working on **IntelliChat**, a Full Stack AI chatbot application
 
-- 🌱 Currently honing my skills in **Django** and **Full-Stack Development**
+- 🌱 Currently honing my skills in **Full-Stack Development**
     
-- 💬 Feel free to ask me about **React**, **JavaScript**, and anything related to **Full-Stack Development**
+- 💬 Feel free to ask me about **React**, **Django** and anything related to **Full-Stack Development**
 
 I'm always open to collaborating on interesting projects, especially in the areas of AI, machine learning, and full-stack web development. Let's build something amazing together!
 
