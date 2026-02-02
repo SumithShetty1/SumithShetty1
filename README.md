@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ## 👋 About Me
 Hi, I'm **Sumith Shetty**, a passionate software developer driven by curiosity and innovation. I enjoy building impactful solutions that solve real-world problems and am constantly expanding my knowledge in cutting-edge technologies.
 
-- 🔭 Working on **ChatEdge**, a Full Stack AI chatbot application
-
 - 🌱 Currently honing my skills in **Full-Stack Development**
     
 - 💬 Feel free to ask me about **React**, **Django** and anything related to **Full-Stack Development**
